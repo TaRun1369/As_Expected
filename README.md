@@ -20,10 +20,13 @@ or by just clicking exe file
   as_expected.exe file or application file
 ```
 
+## How to Play
 
-## Demo
+Right arrow - To move Right
 
-Insert gif or link to demo
+Left arrow - To move Left
+
+Space - To Jump
 
 
 ## FAQ
@@ -32,18 +35,30 @@ Insert gif or link to demo
 
 Answer 1 - Game is in dist file of main folder
 
-#### Question 2) How to open exe file windows defender stops you?
+#### Question 2) How to open exe file if windows defender stops you?
 
-Answer 2 - right click on exe file->open properties->click unblock at the end->Apply.
+Answer 2 - Right click on exe file->open properties->click unblock at the end->Apply.
 
-#### Question 3)
+#### Question 3) Is there any need of code editor to play game?
+
+Answer 3 - No need to use any compiler directly open exe file from 'dist' file.
 
 
 ## License
 
 License for code will be the same as the pygame license.
 
+License for background is with a content creator on youtube channel name 'MAITTRE'.
+
+Many assets are self created and other are free to use open source.
+Background Image is created by an designer TREKE whose permission is taken as this project is non commercial.
 
 ## Screenshots
 
 ![App Screenshot](https://www.linkpicture.com/q/hhhhhh_2.png)
+
+## Appendix
+
+[Youtube link for music](https://www.youtube.com/watch?v=0Zo7xT602Fo)
+
+[instagram of background image creater](https://www.instagram.com/p/CYUDCvjsymh/?utm_source=ig_web_copy_link)
